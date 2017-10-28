@@ -1,8 +1,8 @@
 * {
   font-family: verdana;
-  background-color: black;
   text-align: center;
-}
+  background-color: black;
+  }
 
 h1 {
   font-size: 50px;
@@ -24,5 +24,10 @@ h3 {
 
 p {
   font-size: 21;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
   color: gray;
 }
